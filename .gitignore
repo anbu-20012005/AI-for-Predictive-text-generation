@@ -1,0 +1,14 @@
+Python virtual environment
+venv/
+pycache/
+*.pyc
+
+SQLite database
+predictions.db
+
+IDE files
+.vscode/
+.idea/
+
+System files
+.DS_Store
